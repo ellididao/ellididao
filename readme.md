@@ -4,12 +4,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ellididao&theme=onedark&no-frame=false&no-bg=false&margin-w=4)</br>
-![trophy](https://github-profile-trophy.vercel.app/?username=ellididao&column=6&&margin-w=4&theme=onedark)
-
----
-
 # 🔰 GitHub Contribution
 ![rank](https://github-readme-streak-stats.herokuapp.com/?user=ellididao&theme=radical&hide_border=true)
 ![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellididao&theme=radical)
