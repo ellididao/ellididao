@@ -7,7 +7,7 @@
 # 🔰 GitHub Contribution
 ![rank](https://github-readme-streak-stats.herokuapp.com/?user=embemeokhongbtcode&theme=radical&hide_border=true)
 ![top](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=embemeokhongbtcode&theme=radical)
-![activity](https://activity-graph.herokuapp.com/graph?username=embemeokhongbtcode&bg_color=141321&color=D9D9D9&line=FCFF00&point=FFFFFF&hide_border=true)
+![spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=316rl7456td52nfa2vtm3aegqwsq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=316rl7456td52nfa2vtm3aegqwsq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
 
 ---
 
